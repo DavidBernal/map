@@ -6,7 +6,7 @@
     "build": "pkg bin/main.js --target latest --output dist/p"
   },
   "bin": {
-    "pipe": "./bin/main.js"
+    "map": "./bin/main.js"
   },
   "dependencies": {
     "getopts": "^2.3.0",
